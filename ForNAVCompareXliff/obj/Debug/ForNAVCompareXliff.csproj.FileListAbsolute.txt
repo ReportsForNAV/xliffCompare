@@ -1,0 +1,2 @@
+c:\users\markb\documents\visual studio 2017\Projects\ForNAVCompareXliff\ForNAVCompareXliff\obj\Debug\ForNAVCompareXliff.csprojResolveAssemblyReference.cache
+c:\users\markb\documents\visual studio 2017\Projects\ForNAVCompareXliff\ForNAVCompareXliff\obj\Debug\ForNAVCompareXliff.csproj.CoreCompileInputs.cache
